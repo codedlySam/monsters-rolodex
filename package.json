@@ -1,8 +1,8 @@
 {
-  "name": "monster-rolodex",
+  "name": "monsters-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gfaktor97.github.io/monsters-rolodex",
+  "homepage": "https://codedlySam.github.io/monsters-rolodex",
   "dependencies": {
     "cra-template": "1.0.3",
     "gh-pages": "^2.2.0",
